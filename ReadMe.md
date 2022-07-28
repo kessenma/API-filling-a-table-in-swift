@@ -10,3 +10,4 @@ Right now I think the way to get to where I want to be is by adding in a 'cocoat
  ### and this is what I am trying to build: 
 ![goal state](API_Filling_a_table/TitleDetails_GoalState.png)
 
+I used this youtube video to help build the table I have now: https://www.youtube.com/watch?v=0H78ktM97yU
