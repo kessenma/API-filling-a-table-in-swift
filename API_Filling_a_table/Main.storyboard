@@ -62,7 +62,7 @@
             </objects>
             <point key="canvasLocation" x="1005.7971014492755" y="80.357142857142847"/>
         </scene>
-        <!--User ID's-->
+        <!--Title Details-->
         <scene sceneID="gyv-tE-sF5">
             <objects>
                 <viewController id="4W0-2P-brB" sceneMemberID="viewController">
@@ -81,7 +81,7 @@
                         <viewLayoutGuide key="safeArea" id="IKl-K7-cNj"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" title="User ID's" id="Wmc-RE-seE"/>
+                    <navigationItem key="navigationItem" title="Title Details" id="Wmc-RE-seE"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y3I-Ng-dtg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
